@@ -24,7 +24,6 @@ black:
   script:
     - black app/
 
-
 isort:
   stage: test
   script:
